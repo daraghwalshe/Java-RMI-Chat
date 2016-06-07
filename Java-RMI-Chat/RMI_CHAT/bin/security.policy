@@ -1,0 +1,13 @@
+grant {
+     	permission java.security.AllPermission;
+  };
+  
+  
+  
+  grant codeBase "file:/home/ann/src/" {
+    permission java.security.AllPermission;
+};
+
+
+
+// -Djava.security.debug=access,failure
