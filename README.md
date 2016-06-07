@@ -25,8 +25,8 @@ The directories included in this repo:
 
 
 <hr />
-<img src="https://github.com/daraghwalshe/Java-GUI/blob/master/images/ttt.PNG" width="400"> . . . . . 
-<img src="https://github.com/daraghwalshe/Java-GUI/blob/master/images/words.PNG" width="400">
+<img src="https://github.com/daraghwalshe/Java-RMI-Chat/blob/master/Images/chat-1.PNG" width="400"> . . . . . 
+<img src="https://github.com/daraghwalshe/Java-RMI-Chat/blob/master/Images/chat-2.PNG" width="400">
 <hr />
-<img src="https://github.com/daraghwalshe/Java-GUI/blob/master/images/cheese.PNG" width="400"> . . . . . 
-<img src="https://github.com/daraghwalshe/Java-GUI/blob/master/images/chess.PNG" width="400">
+<img src="https://github.com/daraghwalshe/Java-RMI-Chat/blob/master/Images/chat-3.PNG" width="400"> . . . . . 
+<img src="https://github.com/daraghwalshe/Java-RMI-Chat/blob/master/Images/chat-4.PNG" width="400">
