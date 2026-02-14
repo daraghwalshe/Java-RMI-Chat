@@ -2,6 +2,9 @@
 A Chat application using java remote method invocation
 
 ### A third year college project :mortar_board: :three:  
+- Developed using eclipse IDE
+- Java 1.8
+- RMI technology
 
 This is a project to build a client-server chat application using java RMI technology
 The directories included in this repo:  
